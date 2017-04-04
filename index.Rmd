@@ -1,5 +1,5 @@
 ---
-title: "Course Title"
+title: "Introduction to Comparative Politics"
 author: "[Mark Daku](www.markdaku.com), Ph.D. ([mark.daku@tcu.edu](mailto:mark.daku@tcu.edu))"
 date: 'Term, YYYY - T/Tr Start-Finish, Room'
 site: bookdown::bookdown_site
