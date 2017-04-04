@@ -12,11 +12,12 @@ link-citations: yes
 # Syllabus {-}
 ## Course Description {-}
 
-What's this course about?
+What's this course about? (Probably just import this from a file - idea is to have all the boiler-plate stuff here)
 
 ## Course Objectives {-}
 
 If necessary, a different section with information on the particular objectives of the course
+(Again, import this from a file)
 
 ## General Course Information {-}
 
@@ -26,7 +27,7 @@ In general, I don't really believe in rules for students.  Do whatever you want,
 1. I will teach students who legitimately want to learn.  As such, I put in a number of safe-guards to make sure that the students in my classes have done their work before coming class. 
 
 ### Attendence {-}
-1. I refuse to take attendence. It is my belief that tou are adults and you want to learn (see above). I expect that if you must miss a class, it is because you have other priorities, and that you have weighed the cost/benefit of them accordingly. 
+1. I refuse to take attendence. It is my belief that you are adults and you want to learn (see above). I expect that if you must miss a class, it is because you have other priorities, and that you have weighed the cost/benefit of them accordingly. If you have a documented reason to miss class (e.g. a note from a doctor), then please let me know immediately and arrangements can be made.  Let me be clear: the only time I need to hear about you missing a class is if it was not a decision you made. If you choose to go on a ski trip, that's great! I hope you had fun, please don't tell me about it.  If you broke your leg on that ski trip and need to miss another class to go to get a cast, that's karma - but it's also a legitimate reason to miss a class and you should tell me. 
 
 ### E-mails {-}
 1. I will not reply to e-mails on evenings or weekends.
@@ -37,6 +38,7 @@ In general, I don't really believe in rules for students.  Do whatever you want,
 
 ### Encrypted E-mails {-}
 I am an advocate of internet privacy and I try to encourage everyone I know to take it seriously. One good way to ensure private communications is to encrpyt your e-mail. To encourage you to do this, I have the following additional rules:
+
 1. I *will* reply to any e-mail, even if it breaks one or all of my rules above, if it is encrypted using PGP. 
 2. I will always answer encrypted e-mails *first*, and I will process them with my personal e-mail (which means I will likely answer it faster, though there is no guarantee)
 
@@ -48,15 +50,30 @@ I am an advocate of internet privacy and I try to encourage everyone I know to t
 
 ### Classroom Environment {-}
 
-1. I will not tolerate disruptive classroom behavior. However, I also believe you are adults who want to learn.  If you believe that the best way to do that is to sit in the back of the classroom and scroll through instagram, then go right ahead.  However, this is distracting to other students and any use of laptops, cell phones, etc. must take into account the fact that you are in a shared space.  
+1. I will not tolerate disruptive classroom behavior. However, I also believe you are adults who want to learn.  If you believe that the best way to do that is to sit in the back of the classroom and scroll through instagram, then go right ahead.  The exceptions are during exames, and if your actions are distracting to other students. Your actions always have to take into account that you are in a shared space.
 
-2. I will ensure that all students have an equal opportunity to learn. 
+2. I will ensure that all students have an equal opportunity to learn.  
 
-See the student handbook for more discussion of disruptive classroom behavior and for more information about the University’s Academic Misconduct Policy.  Students wishing to use laptops during class will be required to sit in the back of the classroom so as not to disturb others.  If adequate seating cannot be found, laptops will not be allowed in class. 
-
-Disruptive classroom behavior is not accepted – including the use of electronic devises for personal reasons.  Cell phones are not to be seen or heard during examinations or classes.  Cell phone use during examinations will constitute academic misconduct.  Disruptive classroom behavior (including surfing the internet during class) interferes with the learning process and is absolutely unacceptable.   
-
+3. Texas Christian University complies with the Americans with Disabilities Act and Section 504 of the Rehabilitation Act of 1973 regarding students with disabilities.  Eligible students seeking accommodations should contact the Coordinator of Services for Students with Disabilities in the Center for Academic Services located in Sadler Hall, 11. Accommodations are not retroactive, therefore, students should contact the Coordinator as soon as possible in the term for which they are seeking accommodations. Further information can be obtained from the Center for Academic Services, TCU Box 297710, Fort Worth, TX 76129, or at (817) 257-7486.   Adequate time must be allowed to arrange accommodations and accommodations are not retroactive; therefore, students should contact the Coordinator as soon as possible in the academic term for which they are seeking accommodations. Each eligible student is responsible for presenting relevant, verifiable, professional documentation and/or assessment reports to the Coordinator. Guidelines for documentation may be found at [http://www.acs.tcu.edu/DISABILITY.HTM](http://www.acs.tcu.edu/DISABILITY.HTM).
 
 ## Required Materials {-}
 Course texts can be purchased at bookstore.  Wherever possible, material has been located and made avaialble for free. Links are within the text of the syllabus.
 
+## Grades {-}
+
+Your grade will be calculated based on the following: 
+1. Assignment 1 (X%)
+2. Assignment 2 (X%)
+3. Assignment 3 (X%)
+4. Assignment 4 (X%)
+
+There will be an exam on DATE.  
+Exam specifics.  
+(All this should be imported from a file)
+
+## Grade Appeals
+Errors of arithmetic, etc. will be fixed immediately during office hours with my sincere apologies.
+Other inquiries will be considered if they are presented in writing, with a clear explanation for why you believe the grade does not relfect the work presented.  If I accept the petition, I will regrade the ENTIRE piece of work with a careful eye to detail.  Your grade may go **up** or **down** after this review, and there will be no more opportunities for appeal,
+
+## Plagiarism & Cheating
+You will not survive my wrath. 
