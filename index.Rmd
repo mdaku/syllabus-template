@@ -1,0 +1,62 @@
+---
+title: "Course Title"
+author: "[Mark Daku](www.markdaku.com), Ph.D. ([mark.daku@tcu.edu](mailto:mark.daku@tcu.edu))"
+date: 'Term, YYYY - T/Tr Start-Finish, Room'
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+---
+
+# Syllabus {-}
+## Course Description {-}
+
+What's this course about?
+
+## Course Objectives {-}
+
+If necessary, a different section with information on the particular objectives of the course
+
+## General Course Information {-}
+
+In general, I don't really believe in rules for students.  Do whatever you want, you are adults, but I do have rules for myself and I am pretty disciplined about them. I may break them if they conflict with other rules, or if I just feel like it, but don't count on it:
+
+### Readings {-}
+1. I will teach students who legitimately want to learn.  As such, I put in a number of safe-guards to make sure that the students in my classes have done their work before coming class. 
+
+### Attendence {-}
+1. I refuse to take attendence. It is my belief that tou are adults and you want to learn (see above). I expect that if you must miss a class, it is because you have other priorities, and that you have weighed the cost/benefit of them accordingly. 
+
+### E-mails {-}
+1. I will not reply to e-mails on evenings or weekends.
+2. I will not answer questions that are answered on the syllabus.
+3. I will not answer e-mails about why you are going to miss a class / why you missed a class.  See `Attendence.'
+4. I will not answer in-depth questions about course material by e-mail (I am available almost every day on campus to talk)
+5. I will reply to e-mails within one business day. If you e-mail me on Monday at 8pm, you can expect an e-mail before Wednesday 9am.  If you e-mail me on Friday at 9am of a long weekend, you can expect an e-mail by the following Tuesday at 9am.
+
+### Encrypted E-mails {-}
+I am an advocate of internet privacy and I try to encourage everyone I know to take it seriously. One good way to ensure private communications is to encrpyt your e-mail. To encourage you to do this, I have the following additional rules:
+1. I *will* reply to any e-mail, even if it breaks one or all of my rules above, if it is encrypted using PGP. 
+2. I will always answer encrypted e-mails *first*, and I will process them with my personal e-mail (which means I will likely answer it faster, though there is no guarantee)
+
+### Office Hours {-}
+1. I hold office hours on Tuesday-Thursday between 1-2pm. I prioritize meeting with students who have set up appointments (you can do so [here](www.markdaku.com)), though I am obviously thrilled to chat with anyone who drops by during that time.
+2. I will make arrangements to meet with students who cannot attend my office hours within one week of them e-mailing me. 
+3. I will keep meetings to their scheduled time. 
+
+
+### Classroom Environment {-}
+
+1. I will not tolerate disruptive classroom behavior. However, I also believe you are adults who want to learn.  If you believe that the best way to do that is to sit in the back of the classroom and scroll through instagram, then go right ahead.  However, this is distracting to other students and any use of laptops, cell phones, etc. must take into account the fact that you are in a shared space.  
+
+2. I will ensure that all students have an equal opportunity to learn. 
+
+See the student handbook for more discussion of disruptive classroom behavior and for more information about the University’s Academic Misconduct Policy.  Students wishing to use laptops during class will be required to sit in the back of the classroom so as not to disturb others.  If adequate seating cannot be found, laptops will not be allowed in class. 
+
+Disruptive classroom behavior is not accepted – including the use of electronic devises for personal reasons.  Cell phones are not to be seen or heard during examinations or classes.  Cell phone use during examinations will constitute academic misconduct.  Disruptive classroom behavior (including surfing the internet during class) interferes with the learning process and is absolutely unacceptable.   
+
+
+## Required Materials {-}
+Course texts can be purchased at bookstore.  Wherever possible, material has been located and made avaialble for free. Links are within the text of the syllabus.
+
